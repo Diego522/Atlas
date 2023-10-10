@@ -4,4 +4,4 @@ Atlas é um aplicativo móvel desenvolvido no framework Ionic para a Academia At
 
 O aplicativo começa na tela de preenchimento de informações, onde os usuários fornecem detalhes como idade, peso, altura, experiência anterior em academias, duração e frequência de treinos desejada. Na tela seguinte, os usuários respondem a um questionário sobre sua saúde, incluindo histórico de lesões e problemas cardiorespiratórios, entre outros.
 
-Após o preenchimento das informações, uma animação é exibida para indicar que o treino personalizado está sendo gerado. Na tela seguinte, o treino é apresentado com todas as especificações necessárias, incluindo instruções sobre como realizar cada exercício, a finalidade de cada exercício e o número de séries recomendado
+Após o preenchimento das informações, uma animação é exibida para indicar que o treino personalizado está sendo gerado. Na tela seguinte, o treino é apresentado com todas as especificações necessárias, incluindo instruções sobre como realizar cada exercício, a finalidade de cada exercício e o número de séries recomendado.
